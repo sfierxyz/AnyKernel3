@@ -1,4 +1,4 @@
-NAME ?= Cringe-kernel
+NAME ?=	EUROKERNEL
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
@@ -26,6 +26,5 @@ $(ZIP):
 clean:
 	@rm -vf *.zip*
 	@rm -vf zImage
-	@rm -vf Image*
 	@echo "Cleaned Up."
 

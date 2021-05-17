@@ -2,7 +2,7 @@
 # osm0sis @ xda-developers
 
 properties() { '
-kernel.string=Tuned & Updated AOSiP kernel
+kernel.string=Dance to the heartbeat and let it go
 do.devicecheck=1
 do.modules=0
 do.systemless=1
